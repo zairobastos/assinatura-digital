@@ -1,6 +1,6 @@
 # Guia rápido para executar o projeto
 1. Clone o projeto, para a a sua máquina: <br>
-`` git clone https://github.com/zairobastos/assinatura-digital ``
+`` git clone https://github.com/zairobastos/assinatura-digital.git ``
 
 2. Instale os recursos que são utilizados, no projeto:<br>
 `` npm install ``
